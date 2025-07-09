@@ -1,4 +1,4 @@
-package com.PowerOverStore.PowerOver;
+package com.PowerOverStore.PowerOver.sistema;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
