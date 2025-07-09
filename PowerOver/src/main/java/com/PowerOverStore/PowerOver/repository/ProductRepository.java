@@ -2,9 +2,9 @@ package com.PowerOverStore.PowerOver.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.PowerOverStore.PowerOver.model.Produto;
+import com.PowerOverStore.PowerOver.model.Product;
 
-public interface ProdutoRepository extends JpaRepository<Produto, Long> {
+public interface ProductRepository extends JpaRepository<Product, Long> {
     // Aqui você pode adicionar métodos personalizados, se necessário
 
 }
